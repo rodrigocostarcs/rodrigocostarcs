@@ -70,7 +70,6 @@ Sou Bacharel em Sistemas de Informação com mais de 4 anos de experiência como
 ### 📫 Como me encontrar
 
 - 📧 Email: rodrigocosta@outlook.it
-- 📱 Telefone: (69) 99391-8655
 - 🔗 LinkedIn: [rodrigodacostasilva](https://www.linkedin.com/in/rodrigodacostasilva/)
 - 🌐 Linktree: [devcosta](https://linktr.ee/devcosta)
 
