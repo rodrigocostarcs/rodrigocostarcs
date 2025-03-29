@@ -1,16 +1,79 @@
-## Hi there 👋
+# Olá, eu sou o Rodrigo Costa! 👋
 
-<!--
-**rodrigocostarcs/rodrigocostarcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Desenvolvedor de Software Sênior
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodacostasilva/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigocostarcs)
+[![Links](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devcosta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigocosta@outlook.it)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Bacharel em Sistemas de Informação com mais de 4 anos de experiência como Desenvolvedor de Software. Tenho grande interesse e afinidade com desenvolvimento Web, especialmente na área de backend.
+
+### 🚀 Sobre mim
+
+- 🎓 Bacharel em Sistemas de Informação pela Universidade São Lucas
+- 📚 Pós-graduado em:
+  - Banco de Dados
+  - Desenvolvimento Web com PHP e JAVA
+  - Arquitetura e Projetos de Cloud Computing
+- 🏠 Ji-Paraná, RO - Brasil
+- 💼 Desenvolvedor de Software Senior com experiência no mercado financeiro
+
+### 💻 Tecnologias
+
+#### Linguagens & Frameworks
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenix&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### DevOps & Ferramentas
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+#### Monitoramento
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AppSignal](https://img.shields.io/badge/AppSignal-21375A?style=for-the-badge&logo=appsignal&logoColor=white)
+
+### 🏢 Experiência Profissional
+
+**CrediSIS Central de Cooperativas de Crédito** | Desenvolvedor de Software SR (2021 - 2025)
+- Desenvolvimento com Elixir, PHP, Ionic, Angular e MySQL
+- Experiência em servidores on-premises e cloud AWS
+- Tech Lead na squad de sustentação web
+- Criação e manutenção de pipelines CI/CD (Bitbucket e GitLab)
+- Participação em projetos importantes do mercado financeiro (PIX, Títulos, Convênios, TED)
+
+**Eficiência Fiscal** | Desenvolvedor de Software JR (2020 - 2021)
+- Desenvolvimento web com Elixir, PHP, VueJS e MySQL
+- Proposta de soluções e melhorias contínuas nos sistemas
+
+### 📊 GitHub Stats
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocostarcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocostarcs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+### 📫 Como me encontrar
+
+- 📧 Email: rodrigocosta@outlook.it
+- 📱 Telefone: (69) 99391-8655
+- 🔗 LinkedIn: [rodrigodacostasilva](https://www.linkedin.com/in/rodrigodacostasilva/)
+- 🌐 Linktree: [devcosta](https://linktr.ee/devcosta)
+
+---
+
+⭐️ Inspirado por [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
