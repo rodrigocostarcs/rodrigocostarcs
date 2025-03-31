@@ -74,5 +74,3 @@ Sou Bacharel em Sistemas de Informação com mais de 4 anos de experiência como
 - 🌐 Linktree: [devcosta](https://linktr.ee/devcosta)
 
 ---
-
-⭐️ Inspirado por [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
