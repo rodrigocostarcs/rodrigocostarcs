@@ -16,9 +16,8 @@ Sou Bacharel em Sistemas de Informação com mais de 4 anos de experiência como
   - Banco de Dados
   - Desenvolvimento Web com PHP e JAVA
   - Arquitetura e Projetos de Cloud Computing
-- 🏠 Ji-Paraná, RO - Brasil
-- 💼 Desenvolvedor de Software Senior com experiência no mercado financeiro
-
+- 🏠 Cascavel, PR - Brasil
+- 💼 Desenvolvedor de Software Senior
 ### 💻 Tecnologias
 
 #### Linguagens & Frameworks
