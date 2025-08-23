@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodacostasilva/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigocostarcs)
-[![Links](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devcosta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigocosta@outlook.it)
 
 Sou Bacharel em Sistemas de Informação com mais de 4 anos de experiência como Desenvolvedor de Software. Tenho grande interesse e afinidade com desenvolvimento Web, especialmente na área de backend.
@@ -46,6 +45,13 @@ Sou Bacharel em Sistemas de Informação com mais de 4 anos de experiência como
 ![AppSignal](https://img.shields.io/badge/AppSignal-21375A?style=for-the-badge&logo=appsignal&logoColor=white)
 
 ### 🏢 Experiência Profissional
+
+**Petlove | Desenvolvedor de Software (2025 - Atual)
+- Desenvolvimento backend de aplicações e novas funcionalidades utilizando Elixir, Golang e outras linguagens voltadas ao backend.
+- Atuação com bancos de dados MySQL e PostgreSQL, incluindo modelagem e consultas otimizadas.
+- Trabalho com integrações REST e arquiteturas orientadas a eventos.
+- Criação de testes unitários para garantir qualidade e confiabilidade do código.
+- Uso de ferramentas de monitoramento e observabilidade como Datadog, Honeybadger e outras para acompanhar métricas, detectar falhas e assegurar a estabilidade dos sistemas em produção.
 
 **CrediSIS Central de Cooperativas de Crédito** | Desenvolvedor de Software SR (2021 - 2025)
 - Desenvolvimento com Elixir, PHP, Ionic, Angular e MySQL
