@@ -46,7 +46,7 @@ Sou Bacharel em Sistemas de Informação com mais de 4 anos de experiência como
 
 ### 🏢 Experiência Profissional
 
-**Petlove | Desenvolvedor de Software (2025 - Atual)
+**Petlove** | Desenvolvedor de Software (2025 - Atual)
 - Desenvolvimento backend de aplicações e novas funcionalidades utilizando Elixir, Golang e outras linguagens voltadas ao backend.
 - Atuação com bancos de dados MySQL e PostgreSQL, incluindo modelagem e consultas otimizadas.
 - Trabalho com integrações REST e arquiteturas orientadas a eventos.
